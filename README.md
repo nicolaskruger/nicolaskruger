@@ -31,3 +31,4 @@ something about me:
 <img align="left" alt="st" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/STMicroelectronics_logo.svg/1200px-STMicroelectronics_logo.svg.png" />
 <img align="left" alt="arduino" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" />
 <img align="left" alt="PIO" width="26px" src="https://cdn.worldvectorlogo.com/logos/platformio.svg" />
+<img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
