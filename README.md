@@ -12,7 +12,7 @@ something about me:
 [<img align="left" alt="nícolas-krüger-procuro-estagio | LinkedIn" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/160_Hackerrank_logo_logos-512.png" />](https://www.hackerrank.com/nicolas_nkruger)
 
 [<img align="left" alt="nícolas-krüger-procuro-estagio | CodeWars" width="22px" src="https://cdn0.iconfinder.com/data/icons/a-s-social-set/256/codewars-512.png" />](https://www.codewars.com/users/nicolaskruger)
-
+[<img align="left" alt="nícolas-krüger-procuro-estagio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/n%C3%ADcolas-kr%C3%BCger-procuro-estagio/)
 
 <br />
 
