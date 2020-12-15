@@ -5,7 +5,7 @@
 something about me:
 
 - 🔭 I’m currently studying computer engenier 
-- 🌱 I’m currently learning JavaScript for front end development
+- 🌱 I’m currently learning JavaScript for frontend and backend
 
 ### Connect with me:
 
