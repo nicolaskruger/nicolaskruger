@@ -6,8 +6,7 @@ something about me:
 
 - 🔭 I’m currently studying computer engenier 
 - 🌱 I’m currently learning JavaScript for frontend and backend
-- :gear: I'm interning at HDA and NOVUS project
-- :gun: I'm e-crecer at [CWI](https://crescer.cwi.com.br/)
+- :gun: I'm crecer at [CWI](https://crescer.cwi.com.br/)
 ### Connect with me:
 
 [<img align="left" alt="nícolas-krüger-procuro-estagio | LinkedIn" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/160_Hackerrank_logo_logos-512.png" />](https://www.hackerrank.com/nicolas_nkruger)
