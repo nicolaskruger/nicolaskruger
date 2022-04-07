@@ -5,7 +5,7 @@
 something about me:
 
 - 🔭 I’m currently studying computer engenier 
-- 🌱 I’m currently learning NextJs
+- 🌱 I’m currently learning angular and node
 - :gun: I'm crecer at [CWI](https://crescer.cwi.com.br/)
 ### Connect with me:
 
