@@ -4,9 +4,9 @@
 
 something about me:
 
-- 🔭 I’m currently studying computer engenier 
+- 🔭 I’m currently studying computer engineering
 - 🌱 I’m currently learning angular and node
-- :gun: I'm crecer at [CWI](https://crescer.cwi.com.br/)
+- :gun: I'm crescer at [CWI](https://crescer.cwi.com.br/)
 ### Connect with me:
 
 [<img align="left" alt="nícolas-krüger-procuro-estagio | LinkedIn" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />](https://www.hackerrank.com/nicolas_nkruger)
