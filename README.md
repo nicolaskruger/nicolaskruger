@@ -10,8 +10,6 @@ something about me:
 ### Connect with me:
 
 [<img align="left" alt="nícolas-krüger-procuro-estagio | LinkedIn" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />](https://www.hackerrank.com/nicolas_nkruger)
-
-[<img align="left" alt="nícolas-krüger-procuro-estagio | CodeWars" width="22px" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" />](https://www.codewars.com/users/nicolaskruger)
 [<img align="left" alt="nícolas-krüger-procuro-estagio | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />](www.linkedin.com/in/nicolas-kruger-dev)
 
 <br />
